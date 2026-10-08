@@ -1,4 +1,4 @@
-# 🛍️ VyapaarScore
+#  VyapaarScore
 
 ### AI-Powered Micro-Business Credit Evaluation & Underwriting Platform
 
@@ -8,7 +8,7 @@ The platform analyzes **UPI payment receipts, bank SMS notifications, and financ
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Many small merchants have limited access to formal credit because they may not have:
 
@@ -28,7 +28,7 @@ VyapaarScore uses this alternative financial data to create a structured credit 
 
 ---
 
-## 💡 Solution
+##  Solution
 
 VyapaarScore follows this process:
 
@@ -68,7 +68,7 @@ Lender Evaluation
 - Password reset functionality
 - API rate limiting
 
-### 📸 OCR-Based Transaction Extraction
+### OCR-Based Transaction Extraction
 
 The platform processes financial documents and extracts important transaction information.
 
@@ -96,7 +96,7 @@ The extracted information includes:
 
 ---
 
-## 📊 VyapaarScore
+## VyapaarScore
 
 VyapaarScore ranges from **300 to 900**.
 
@@ -138,9 +138,9 @@ VyapaarScore
 
 ---
 
-## 👥 User Roles
+##  User Roles
 
-### 👤 Merchant
+### Merchant
 
 Merchants can:
 
@@ -155,7 +155,7 @@ Merchants can:
 - Control whether their report is shared with lenders
 - Apply for loans
 
-### 🏦 Lender
+### Lender
 
 Lenders can:
 
@@ -166,7 +166,7 @@ Lenders can:
 - Review loan applications
 - Approve or reject applications
 
-### 👑 Admin
+### Admin
 
 Administrators can:
 
@@ -178,7 +178,7 @@ Administrators can:
 
 ---
 
-## 📄 Credit Report
+## Credit Report
 
 VyapaarScore generates a PDF credit evaluation report containing:
 
@@ -196,7 +196,7 @@ PDF reports are generated using **PDFKit**.
 
 ---
 
-## 🔒 Data Privacy
+## Data Privacy
 
 Merchant financial information is shared with lenders only when the merchant explicitly enables the sharing option.
 
@@ -214,7 +214,7 @@ Share with Lenders?
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
                     VYAPAARSCORE
@@ -250,7 +250,7 @@ Share with Lenders?
 
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 
 | Layer | Technologies |
 |---|---|
@@ -273,7 +273,7 @@ Share with Lenders?
 
 ---
 
-## 🔄 End-to-End Workflow
+## End-to-End Workflow
 
 ```text
 1. Merchant registers
@@ -305,13 +305,13 @@ Share with Lenders?
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of VyapaarScore is to provide a **transparent alternative credit evaluation mechanism for underserved micro-businesses** by converting their digital financial activity into a structured credit profile.
 
 ---
 
-## 🌟 Future Enhancements
+##  Future Enhancements
 
 - Machine learning-based credit scoring
 - Advanced fraud detection
@@ -323,7 +323,7 @@ The main objective of VyapaarScore is to provide a **transparent alternative cre
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 **VyapaarScore bridges the gap between small merchants and formal lending by transforming alternative financial data into a transparent credit profile.**
 
