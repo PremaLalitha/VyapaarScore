@@ -1,6 +1,6 @@
 # Documentation files
-!README.md
-!RUN_GUIDE.md
+*.md
+docs/
 
 # Dependencies
 node_modules/
